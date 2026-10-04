@@ -21,5 +21,4 @@ Also remeber, this mod shouldnt be used in online mod because it modifys parts o
 
 Installation: Drop the media folder in and hope and pray
 
-Mod link: https://www.nexusmods.com/forzahorizon6/mods/1674?tab=description
 (Yes you will get the goofy fast and furious start up, and if ive missed anything in this description tell me please) 
